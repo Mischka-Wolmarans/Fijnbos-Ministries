@@ -567,6 +567,8 @@ HEADER
 
     max-width:900px;
 
+    padding-top:40px;
+
     span{
       text-transform: italics;
     }
@@ -1166,7 +1168,7 @@ LATEST TEACHINGS + EVENTS
 
     position:relative;
 
-    background:#F0EAE2;
+    background:#FBFAF7;
 
     overflow:hidden;
 
@@ -1264,7 +1266,7 @@ THERAPY + NEWSLETTER
 
     padding:90px 0;
 
-    background:#FBFAF7;
+    background:#FFF;
 
 }
 
@@ -1286,7 +1288,7 @@ THERAPY + NEWSLETTER
 
     border:1px solid #E9E1D5;
 
-    background:white;
+    background:#FBFAF7;
 
     min-height:360px;
 
@@ -1410,7 +1412,7 @@ THERAPY + NEWSLETTER
 
     border:1px solid #E9E1D5;
 
-    background:white;
+    background:#FBFAF7;
 
     min-height:360px;
 
@@ -1503,8 +1505,6 @@ THERAPY + NEWSLETTER
     transform:translateY(-50%);
 
     width:180px;
-
-    opacity:.35;
 
 }
 
